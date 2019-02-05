@@ -9,3 +9,4 @@ From: <insert applicable license url here>
 LICENSE
 
 <Insert License Here>
+authorized use only
